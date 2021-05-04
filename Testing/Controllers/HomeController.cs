@@ -15,7 +15,7 @@ namespace Testing.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application ffdfdfdfdbf description page.";
+            ViewBag.Message = "Yourfhggf page.";
 
             return View();
         }
